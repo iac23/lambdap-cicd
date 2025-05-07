@@ -1,1 +1,1 @@
-# lambdap-cicd
+# lambda-cicd
