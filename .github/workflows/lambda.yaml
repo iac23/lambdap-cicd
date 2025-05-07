@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - 'lambda/**'
+      - 'lambdap-cicd/**'
       - '.github/workflows/**'
 
 jobs:   
